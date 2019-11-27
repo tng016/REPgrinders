@@ -1,73 +1,62 @@
 <!-- ![devops guide](https://github.com/Tikam02/DevOps-Guide/blob/master/img/devops-guide.png) -->
 # REPGrinders
+![GitHub last commit](https://img.shields.io/github/last-commit/tng016/REPgrinders?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/tng016/REPgrinders?style=for-the-badge)
-	
-	
-*******************
-
+******************
+### Subtopics:
 
 <center>
 <table>
   <tr>
-    <td align="center"><a href="./Docker"><img src="img/docker.png" width="75px;" height="75px;" alt="Docker"/><br/><b>Docker</b></a><br /><sub><a href="./Docker/docker-concepts.md">Docker Concepts</a></sub><br><sub><a href="./Docker/docker-notes.md">Docker Notes</a></sub><br><sub><a href="./Docker">Docker Tutorial</a></sub></td>
+    <td align="center"><a href="./Leetcode"><img src="img/logo/leetcode.png" width="75px;" height="75px;" alt="Leetcode"/><br/><br><b>LeetCode</b></a><br /></td>
+    <td align="center"><a href="./Shopee"><img src="img/logo/shopee.png" width="75px;" height="105px;" alt="Shopee"/><br/><b>Shopee</b></a><br /></td>
   </tr>
-   
-   
  </table>
 </center>
 
 
 
 ******************
+### Quick Tips:
 
+- [ ] Algorithms & Data structures is all the knowledge you need (Mostly!)
+- [ ] Invest in LeetCode Premium
+- [ ] Create a LeetCode study group for peer interviewing
+- [ ] Start Early!
 
+******************
+### FAQs:
+Post your questions in [issues](https://github.com/tng016/REPgrinders/issues)!
 
-![Foundation](https://github.com/Tikam02/DevOps_Cheatsheet/blob/master/img/flow.png)
-* Foundation
-
-![Flow](https://github.com/Tikam02/DevOps_Cheatsheet/blob/master/img/foundation.png)
-* Devops Flow
+##### lorem ipsum?
+blah blah blah
 
 ********************
 
 
-### Getting Started DevOps Links:
+### Links to additional resources:
 
-- [What is Devops - AWS](https://aws.amazon.com/devops/what-is-devops/)
-- [DevOps Roadmap by kamranahmedse](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/devops.png)
-- [r/devops](https://www.reddit.com/r/devops/)
-- [IBM Kubernetes Handson Labs](https://github.com/IBM/kube101/tree/master/workshop)
-- [Getting Started With Azure DevOps](https://github.com/microsoft/azuredevopslabs)
-- [Getting started with Google Cloud Platform](https://cloud.google.com/gcp/getting-started/)
-- [Freecodecamp Devops Getting Started Articles](https://www.freecodecamp.org/news/tag/devops/)
-- [The-devops-roadmap-for-programmers](https://dzone.com/articles/the-devops-roadmap-for-programmers)
-- [Roadmap To devops](https://medium.com/faun/the-roadmap-to-become-a-devops-dude-from-server-to-serverless-dd97420f640e)
-- [DevOps Getting Started](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
-- [How-to-get-started-with-devops](https://dev.to/liquid_chickens/how-to-get-started-with-devops)
-- [Going-from-it-to-devops](https://medium.com/better-programming/going-from-it-to-devops-996192520331)
-  
+- [Top 75 LeetCode Questions](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [[Github] Coding Interview Study Plan by jwasham](https://github.com/jwasham/coding-interview-university)
+- [[Github] Questions to ask interviewers](https://github.com/viraptor/reverse-interview)
+- [Advanced Databases Slides](https://drive.google.com/open?id=1MhYlDCPTC4slwUy4XhrqFj3xfaN1tn7k)
+
 **************************
 ## To Do
 
-- [ ] Add More Notes on OS/Linux
-- [ ] Add more concepts of CI/CD
-- [ ] Add more interview Question about OS and Networking
-- [ ] Kubernetes Monitoring - Prometheus and Grafana
-- [ ] Add IaC concepts and Tools
-- [ ] Add - AWS CloudFormation,Terraform,Chef,Ansible,Puppet
+- [ ] Add more personal tips
+- [ ] Add more company interviews
+- [ ] Advise fo REPeeps in year 2 & 3
+- [ ] School specific advice (Imperial/Berkeley/NW/UBC)
 
 **************************
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Feel free to contact us for referrals!
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="http://www.ghostwheel.co.uk"><img src="https://avatars0.githubusercontent.com/u/652579?v=4" width="100px;" alt="Neil Duncan"/><br /><sub><b>Neil Duncan</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=neilduncan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ngtzeyang94/"><img src="https://avatars0.githubusercontent.com/u/22077775?s=460&v=4" width="100px;" alt="Ng Tze Yang"/><br /><sub><b>Ng Tze Yang</b></sub></a><br /><sub>Shopee Server Team</sub></a></td>
   </tr>
 </table>
-
-
