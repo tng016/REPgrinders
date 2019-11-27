@@ -1,7 +1,6 @@
 <!-- ![devops guide](https://github.com/Tikam02/DevOps-Guide/blob/master/img/devops-guide.png) -->
 # REPGrinders
-![GitHub last commit](https://img.shields.io/github/last-commit/tng016/REPgrinders?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/tng016/REPgrinders?style=for-the-badge)
+
 ******************
 ### Subtopics:
 
@@ -57,6 +56,6 @@ Feel free to contact us for referrals!
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ngtzeyang94/"><img src="https://avatars0.githubusercontent.com/u/22077775?s=460&v=4" width="100px;" alt="Ng Tze Yang"/><br /><sub><b>Ng Tze Yang</b></sub></a><br /><sub>Shopee Server Team</sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ngtzeyang94/"><img src="https://avatars0.githubusercontent.com/u/22077775?s=460&v=4" width="100px;" alt="Ng Tze Yang"/><br /><sub><b>Ng Tze Yang</b></sub></a><br /><sub>(Starting) Shopee Server Team</sub></a></td>
   </tr>
 </table>
