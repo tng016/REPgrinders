@@ -1,6 +1,7 @@
 <!-- ![devops guide](https://github.com/Tikam02/DevOps-Guide/blob/master/img/devops-guide.png) -->
 # REPGrinders
-
+![GitHub last commit](https://img.shields.io/github/last-commit/tng016/REPgrinders?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/tng016/REPgrinders?style=for-the-badge)
 ******************
 ### Subtopics:
 
